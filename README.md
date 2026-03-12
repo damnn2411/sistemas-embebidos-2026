@@ -1,12 +1,12 @@
 # SISTEMA INTELIGENTE DE MONITOREO Y CONTROL AMBIENTAL PARA PLANTAS EN INVERNADERO
 ## Integrantes y Roles
--Daniel Ayala - Technical Leader
+-Daniel Ayala (Technical Leader)
 
--Sebastian Pelaez - Verification & Testing Engineer
+-Sebastian Pelaez  (Verification & Testing Engineer)
 
--Yoann Matarazzi- FirmWare Engineer
+-Yoann Matarazzi (FirmWare Engineer)
 
--Thomas Moskovtchenko - HardWare Engineer
+-Thomas Moskovtchenko  (HardWare Engineer)
 
 # Proyecto
 El cultivo de plantas en entornos controlados como invernaderos permite optimizar las condiciones ambientales necesarias para su crecimiento y desarrollo. Variables como la temperatura, la humedad del ambiente y la humedad del suelo influyen directamente en procesos fisiológicos fundamentales de las plantas, incluyendo la absorción de nutrientes, la fotosíntesis y la transpiración. Cuando estos parámetros se encuentran fuera de los rangos adecuados, pueden generarse condiciones que afectan negativamente el crecimiento vegetal, reduciendo la productividad del cultivo o incluso provocando el deterioro de las plantas.
